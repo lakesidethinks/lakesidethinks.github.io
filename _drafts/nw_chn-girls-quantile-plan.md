@@ -1,0 +1,1 @@
+A very intersting plan, is that I go to Norhtwestwrn's library and student center to note down the distribution of how the female student look. The intersting part is that I will then get a quick reference for the future girl that how beautiful they are (in terms of what quantile they are at US).  
