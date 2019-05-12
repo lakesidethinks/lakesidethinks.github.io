@@ -1,0 +1,12 @@
+<div class="row">
+	<div class="col-md-12">
+		<div class="page-header">
+			<h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+			{% if page.date %}
+      <span class="entry-date" itemprop="datePublished">Posted on {{ page.date | date: '%B %d, %Y' }}</span>
+      {% endif %}
+
+			{{ content }}
+		</div>
+	</div>
+</div>
