@@ -16,3 +16,5 @@ http://einverne.github.io
 	目录下运行`bundle exec jekyll serve -w`，本地浏览地址：http://localhost:4000
 
 如果想使用博客的主题，这个repo有一个 theme 的分支，可以直接使用该分支。
+
+random
