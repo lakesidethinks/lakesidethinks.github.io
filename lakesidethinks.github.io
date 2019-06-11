@@ -1,1 +1,0 @@
-/Users/myt007/Google Drive/git/lakesidethinks.github.io
