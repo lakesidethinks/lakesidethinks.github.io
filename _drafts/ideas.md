@@ -1,3 +1,25 @@
+# 中共=中國人=中國歷史
+
+在看了一些最近讀的歷史書之後，我現在覺得中國人的根深蒂固的心態就是中共表現的樣子。如果不像香港臺灣那樣從根源上重新教育和引入新的制度，就算今日中共倒臺了也只不過上來另外一個馬基雅維利式的政黨繼續重複一邊中國歷史而已
+
+# 高级五毛
+
+我发现蛮族勇士的网站鹰盲网经常转发一些赵皓阳这个高级五毛的文章。再考虑到蛮族勇士长期以来对财经指指点点但一直都活着，可以合理推断蛮族勇士有极大的可能也是个隐藏颇深的高级五毛。如此一来真的不得不佩服中共的统战宣传水平，把我方阵地和对方阵地都占领了，让真正的反对者根本找不到支持者。
+
+不过虽然我反对赵皓阳的终极立场，我觉得他对当下消费主义的批判写的还是不错。
+
+消费主义将符号高价贩卖给你，让你获得你喜爱的景观，并将你的生活降级
+
+# Losing the access to NAS
+
+suddenly I lost almost all accesses to my NAS
+The most significant problem is that I'm not sure if my ttrss is still working
+also I lost the access to my joplin database
+
+This makes me wonder if I should setup a replicate for the server on GCloud so that I have better robustness when facing such interuptions for the server
+
+The question is quite stright forward - how can I keep an usable online backup for the ttrss and joplin server that I can switch to when my main server is shut down?
+
 #  泰国也是一个低人权国家
 
 [「繁星皆塵土」，與體制、監牢和軍政府無止盡抗爭的泰國青年](:/2e2730eabc2346c9a800f7a534bd6ab7)
