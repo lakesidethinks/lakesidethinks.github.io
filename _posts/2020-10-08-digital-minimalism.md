@@ -52,8 +52,7 @@ last_updated: 2020.10.08
 
 作者对自我的独处给出了如下的定义：
 
-> Solitude Deprivation
-> A state in which you spend close to zero time alone with your own thoughts and free from input from other minds.
+> **Solitude Deprivation**: A state in which you spend close to zero time alone with your own thoughts and free from input from other minds.
 
 [Nova ](https://book.douban.com/review/9962774/)评论道：
 
