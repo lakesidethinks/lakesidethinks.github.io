@@ -1,5 +1,13 @@
 
 
+
+
+# William Gibson and AI Cropytocurrency trading
+
+感觉用AI算法交易加密货币这件事情是一个特别CyberPunk， HighTech LowLife的事情。收割散户导致年轻人流离失所的感觉。
+
+很科幻很William Gibson，像是在暴雨的黑夜中走在Chiba City的小巷里，抬头看一眼高楼外上下翻飞地巨型幻象，无言地返回42层的小小蜗居。打开6联屏显示器矩阵，看着加密货币与金融数据的数据流如瀑布般在屏幕上奔流，各种顶级交易AI在电磁信号组成的另外一个维度里激烈厮杀，兵戎相见，成王败寇。
+
 # NLP side project
 
 2020 Nov
