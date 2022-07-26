@@ -22,13 +22,13 @@ last_updated:
 
  综合来看，它不失为搭建中小型Blog或项目主页的最佳选项之一。
 
-## 技术细节
+# 技术细节
 
 我最开始是从阮一峰的介绍([搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html))里了解到还有这种轻便的方式实现可以自己高度控制的博客。后来我在网上冲浪的时候遇到了[Verne的博客](http://einverne.github.io/)，非常喜欢他调的[蓝白色简洁模板](einverne.github.io/post/2011/12/jekyll-introduction.html)。这样简洁的模板在保持对超文本标注可读性的同时，最大程度的使非内容的排版、美术形式从读者的眼中消失，保证阅读可以专注于内容。
 
 安装这个Jekyll主要是看[官方的引导](https://jekyllrb.com/docs/installation/#macOS)<https://jekyllrb.com/docs/installation/#macOS>，写的还是非常清晰了。毕竟Jekyll的作者入职了Github。在Mac上安装完之后需要执行 ``` bundle update``` 更新一下gem的组件。我在安装的时候还读了这篇[48 个你需要知道的 Jekyll 使用技巧](https://crispgm.com/page/48-tips-for-jekyll-you-should-know.html)文章学到了不少实用技巧。
 
-### 给我自己看的代码备忘
+## 给我自己看的代码备忘
 
 - 在博客内部超链接另外一篇文章的格式：
   - 链接到我的另外一篇 [post]({{ site.baseurl }}{% post_url 2018-03-24-read-plan-for-2018 %})
@@ -67,6 +67,18 @@ rake page name="about.html"
 ```markdown
 **<center>荷加斯代表作「时髦婚姻：早餐」 Marriage A-la-Mode: The Tête à Tête, William Hogarth, 1743, Oil on Canvas, 69.9 x 90.8 cm, National Gallery, London</center>**
 ```
+
+## Latex 支持
+
+在行内的Ｌａｔｅｘ：`$$x$$`->$$x$$
+
+在行间的Ｌａｔｅｘ：
+
+`$$x$$`
+
+->
+
+$$x$$
 
 ## 本地更新gem包
 
