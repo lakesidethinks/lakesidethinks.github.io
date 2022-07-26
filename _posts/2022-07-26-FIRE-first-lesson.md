@@ -120,12 +120,22 @@ $$
 在这个表达式里，$k$是基于对风险的承受能力和对未来大盘收益的预测设定的取现率，可以看作一个外生变量。$\alpha$是大盘的年化回报率，也是外生变量。注意这里$x$已经被约掉了，这也证明了需要多少年才能达到FIRE是和收入绝对值$x$无关的。唯一完全受投资者控制的变量就是储蓄率$\beta$。我们想知道的就是如果储蓄率上升，会怎么影响$n$的值。为此我们计算$n$对$\beta$的偏导数：
 
 $$
-\frac{\partial n}{\partial \beta} = \frac{1}{\ln(1+\alpha)}\cdot(\frac{\alpha(1-\beta)}{k\beta}+1)\cdot\frac{\alpha}{k}\cdot\frac{-1}{\beta^2} \\ = \frac{-\alpha}{k^2 \ln(1+\alpha)}\cdot \frac{\alpha + \beta*(k-\alpha)}{\beta^3} \\ = M \frac{\alpha + \beta*(k-\alpha)}{\beta^3}
+\frac{\partial n}{\partial \beta} = \frac{1}{\ln(1+\alpha)}\cdot \frac{1}{(\frac{\alpha(1-\beta)}{k\beta}+1)} \cdot\frac{\alpha}{k}\cdot\frac{-1}{\beta^2} = \frac{\alpha}{\ln(1+\alpha)}\cdot \frac{1}{\beta(-\alpha + \alpha \beta - k\beta)}
 $$
 
+其二阶偏导数为：
+$$
+\frac{\partial n^2}{\partial^2 \beta} =\frac{{\alpha} (-2 {\alpha} {\beta}+{\alpha}+2 {\beta} k)}{{\beta}^2 \log ({\alpha}+1) ({\alpha} ({\beta}-1)-{\beta} k)^2}
+$$
 让我们代入数值来作图看看，令$\alpha=0.06, k=0.035$，得到下图：
 
+<img src="{{ site.baseurl }}/images/FIRE/FIRE-Math-fn.png" alt="FIRE Math Fn">
 
+<img src="{{ site.baseurl }}/images/FIRE/FIRE-Math-dn-db.png" alt="FIRE Math dn/db">
+
+<img src="{{ site.baseurl }}/images/FIRE/FIRE-Math-dn2-d2b.png" alt="FIRE Math dn2/d2b">
+
+由于$n$对于$\beta$的偏导数总是负数，说明增大储蓄率总是会减少FIRE所需年份。由于$n$对$\beta$的二阶偏导数总是为正，说明储蓄率$\beta$越大，就会增大储蓄率对减少FIRE年份的减少值是越来越小的。也就是说，如果我们增加花费，减少储蓄率，对增加FIRE年份的影响是越来越大的，也就是上一节得到的“对于重复持续性的消费，你花的每一个新的一块钱，都会比上一个一块钱更多地延迟你的退休时间。”更贵的结论。
 
 # 下集预告
 
