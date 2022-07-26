@@ -92,10 +92,10 @@ Pua 是一个热爱文艺、诗和远方，满怀教育理想的年轻人，他�
 在【FIRE课堂】系列的下一篇文章【FIRE第二课：首先是一种精神修行】里面，我们将探讨FIRE这样一种思想运动在个人精神、当代社会学意义和进化生物学意义上意味着什么。这些讨论不光能加深我们对于人这一社会动物的生物性弱点的了解，更好地对抗现代技术与消费主义的诱导，也能帮助读者在追求FIRE的过程中更好地平衡短期利益（我该买这个豪华福特大皮卡吗）和长期利益（还有10年就能退休了！）的冲突。
 
 # 参考文献
-- https://en.wikipedia.org/wiki/FIRE_movement
-- https://engaging-data.com/visualizing-4-rule/
-- https://engaging-data.com/fire-calculator/
-- https://www.mrmoneymustache.com/2012/04/30/the-cost-of-living-is-too-high-these-days-waaah-waaah/
-- https://www.mrmoneymustache.com/2013/08/29/luxury-is-just-another-weakness/
-- https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=5&withdrawalRate=4
-- https://www.madfientist.com/optimize-your-journey-to-fi/
+- [https://en.wikipedia.org/wiki/FIRE_movement](https://en.wikipedia.org/wiki/FIRE_movement)
+- [https://engaging-data.com/visualizing-4-rule/](https://engaging-data.com/visualizing-4-rule/)
+- [https://engaging-data.com/fire-calculator/](https://engaging-data.com/fire-calculator/)
+- [https://www.mrmoneymustache.com/2012/04/30/the-cost-of-living-is-too-high-these-days-waaah-waaah/](https://www.mrmoneymustache.com/2012/04/30/the-cost-of-living-is-too-high-these-days-waaah-waaah/)
+- [https://www.mrmoneymustache.com/2013/08/29/luxury-is-just-another-weakness/](https://www.mrmoneymustache.com/2013/08/29/luxury-is-just-another-weakness/)
+- [https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=5&withdrawalRate=4](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=5&withdrawalRate=4)
+- [https://www.madfientist.com/optimize-your-journey-to-fi/](https://www.madfientist.com/optimize-your-journey-to-fi/)
