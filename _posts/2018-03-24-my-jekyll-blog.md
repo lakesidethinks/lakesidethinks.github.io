@@ -70,11 +70,11 @@ rake page name="about.html"
 
 ## Latex 支持
 
-在行内的Ｌａｔｅｘ：`$$\int x = \lamba $$`->$$\int x = \lamba $$
+在行内的Ｌａｔｅｘ：`$$\int x = \lamba $$`->$$\int x = \Lamba $$
 
 在行间的Ｌａｔｅｘ：
 
-`$$\int x = \lamba $$`
+`$$\int x = \Lamba $$`
 
 ->
 
