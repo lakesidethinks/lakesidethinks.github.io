@@ -57,7 +57,7 @@ Pua 是一个热爱文艺、诗和远方，满怀教育理想的年轻人，他�
 
 # 每一块钱都比上一块钱更贵
 
-通过对FIRE所需要的时间进行边际成本分析，我们会得到一个非常重要的反直觉结论：你花的每一块钱的成本并不相同。**你花的每一个新的一块钱，都会比上一个一块钱更多地延迟你的退休时间。**为了理解这一点，我们可以借助[储蓄率计算器](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=6&withdrawalRate=4)的帮助。从下表和图中我们可以看出，储蓄率对FIRE所需年份的影响不是线性的，而是一个反曲线。
+通过对FIRE所需要的时间进行边际成本分析，我们会得到一个非常重要的反直觉结论：你花的每一块钱的成本并不相同。**对于重复持续性的消费，你花的每一个新的一块钱，都会比上一个一块钱更多地延迟你的退休时间。**为了理解这一点，我们可以借助[储蓄率计算器](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=6&withdrawalRate=4)的帮助。从下表和图中我们可以看出，储蓄率对FIRE所需年份的影响不是线性的，而是一个反曲线。
 
 > 当储蓄率为 2%时，FIRE需要74年。  
 > 当储蓄率为 5%时，FIRE需要58年。  
