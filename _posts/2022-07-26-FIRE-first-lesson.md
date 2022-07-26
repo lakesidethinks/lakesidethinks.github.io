@@ -125,7 +125,7 @@ $$
 
 其二阶偏导数为：
 $$
-\frac{\partial n^2}{\partial^2 \beta} =\frac{{\alpha} (-2 {\alpha} {\beta}+{\alpha}+2 {\beta} k)}{{\beta}^2 \log ({\alpha}+1) ({\alpha} ({\beta}-1)-{\beta} k)^2}
+\frac{\partial n^2}{\partial^2 \beta} = \frac{\alpha (-2 \alpha \beta+\alpha+2 \beta k)}{\beta^2 \log (\alpha+1) (\alpha (\beta-1)-\beta k)^2}
 $$
 让我们代入数值来作图看看，令$\alpha=0.06, k=0.035$，得到下图：
 
