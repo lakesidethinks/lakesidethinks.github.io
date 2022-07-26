@@ -70,15 +70,15 @@ rake page name="about.html"
 
 ## Latex 支持
 
-在行内的Ｌａｔｅｘ：`$$x$$`->$$x$$
+在行内的Ｌａｔｅｘ：`$$\int x = \lamba $$`->$$\int x = \lamba $$
 
 在行间的Ｌａｔｅｘ：
 
-`$$x$$`
+`$$\int x = \lamba $$`
 
 ->
 
-$$x$$
+$$\int x = \lamba $$
 
 ## 本地更新gem包
 
