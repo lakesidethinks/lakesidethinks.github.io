@@ -99,6 +99,7 @@ Pua 是一个热爱文艺、诗和远方，满怀教育理想的年轻人，他�
 
 # 参考文献
 
+- [https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/)
 - [https://en.wikipedia.org/wiki/FIRE_movement](https://en.wikipedia.org/wiki/FIRE_movement)
 - [https://engaging-data.com/visualizing-4-rule/](https://engaging-data.com/visualizing-4-rule/)
 - [https://engaging-data.com/fire-calculator/](https://engaging-data.com/fire-calculator/)
